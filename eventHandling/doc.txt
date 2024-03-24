@@ -1,0 +1,7 @@
+event listeners:
+attaches an event handler to ab element without overwriting existing event handlers.
+you can add as many event handlers to one element.
+
+element.addEventListener(event, function, useCapture);
+
+--------------------------------------------

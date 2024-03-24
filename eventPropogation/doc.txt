@@ -1,0 +1,8 @@
+the event propogation is used to manage the timing to event occurence.
+this is two type:
+1. bubbling propogation.
+2. capturing propogation.
+
+in the syntax of event handling they are used in the place of 'useCapture'
+
+elem.addeventListner("click", myFuction, true)

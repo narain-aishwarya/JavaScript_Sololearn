@@ -1,0 +1,4 @@
+Prior to ES6, if we wanted to pass a variable number of arguments to a function, we could use the arguments object, an array-like object, to access the parameters passed to the function.
+
+
+We can pass any number of arguments to the function and access it using the arguments object

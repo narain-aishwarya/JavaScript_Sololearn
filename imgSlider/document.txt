@@ -1,0 +1,3 @@
+The num variable holds the current image. 
+
+The next and previous button clicks are handled by their corresponding functions, which change the source of the image to the next/previous image in the array.
