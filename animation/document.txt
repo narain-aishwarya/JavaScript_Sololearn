@@ -1,0 +1,5 @@
+animation :
+
+# we need to change the property by small interval of time, this is achieved by using ^setInterval()^
+=> move()
+=> clearInterval()
